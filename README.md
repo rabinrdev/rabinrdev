@@ -1,210 +1,149 @@
-<!--
-  RABIN R. — CINEMATIC DEVELOPER PROFILE
-  Visual direction: Dark editorial / cinematic / teal accents
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0B0D10&text=RABIN%20R.&fontSize=80&fontColor=F5F5F0&fontAlign=50&fontAlignY=43&desc=ANGULAR%20ENGINEER%20%20%E2%80%94%20%20DIGITAL%20PRODUCT%20BUILDER&descSize=13&descColor=7DE8CB&descAlign=50&descAlignY=62" alt="Rabin R. — Angular Engineer"/>
+<img src="assets/banner.svg" alt="Rabin R - The Angular Consultant. Comic book style banner" width="100%"/>
 
 <br/>
 
-# I build interfaces that work beyond the screen.
-
-**Frontend Engineering · Product Architecture · Digital Experiences**
-
-Chennai, India · Available for select projects
-
-<br/>
-
-[ PORTFOLIO ](https://www.rabinr.in/) &nbsp; / &nbsp;
-[ SELECTED WORK ](https://www.rabinr.in/work) &nbsp; / &nbsp;
-[ ABOUT ME ](https://www.rabinr.in/about)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-rabinr.in-e8553d?style=for-the-badge&labelColor=1b1b1b)](https://rabinr.in/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-rabinr-7ad7f0?style=for-the-badge&labelColor=1b1b1b)](https://www.linkedin.com/in/rabinr)
+[![Hire Me](https://img.shields.io/badge/STATUS-OPEN_TO_PROJECTS-ffd23f?style=for-the-badge&labelColor=1b1b1b)](https://rabinr.in/contact)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-<div align="center">
+<img src="assets/about.svg" alt="Origin Story" width="620"/>
 
-`CHAPTER 01` &nbsp; — &nbsp; THE ENGINEER BEHIND THE INTERFACE
+```text
+ +--------------------------------------------------------------+
+ |  PANEL 1                                                     |
+ |                                                              |
+ |  NARRATOR:  Chennai, India. A developer, a keyboard, and     |
+ |             an unreasonable amount of coffee.                |
+ |                                                              |
+ +--------------------------------------------------------------+
+ |  PANEL 2                                                     |
+ |                                                              |
+ |  RABIN:   "I'm a Frontend Angular Consultant. 4+ years.      |
+ |            Government, pension, insurance & healthcare       |
+ |            platforms. Shipped in 3 countries."               |
+ |                                                              |
+ +--------------------------------------------------------------+
+ |  PANEL 3                                                     |
+ |                                                              |
+ |  RABIN:   "My mission? Angular apps that are fast,           |
+ |            accessible, and still easy to change by          |
+ |            the THIRD release."                               |
+ |                                                              |
+ |                                        *KEYBOARD CLACKING*   |
+ +--------------------------------------------------------------+
+```
 
-</div>
-
-## Beyond writing code.
-
-I'm Rabin R., a Frontend Angular Consultant with 4+ years of experience engineering web and mobile applications for government, enterprise, pension, and insurance products.
-
-I care about the things users feel but rarely see:
-
-- **Precision** — interfaces where every detail has a purpose.
-- **Performance** — applications engineered to feel immediate.
-- **Architecture** — systems that remain maintainable as products grow.
-- **Accessibility** — experiences designed for real people and real devices.
-
-My daily work revolves around Angular, TypeScript, RxJS, Signals, and building frontend systems that teams can confidently evolve.
-
-[Explore my story →](https://www.rabinr.in/about)
-
----
-
-<div align="center">
-
-`CHAPTER 02` &nbsp; — &nbsp; SELECTED WORK
-
-</div>
-
-## Software with a real purpose.
-
-Not just interfaces. Systems designed around real workflows, people, and operational needs.
+> **Currently:** building enterprise healthcare apps with **Angular 22, TypeScript, SCSS and Angular Signals** as a Frontend Angular Consultant at RSTACK Solutions.
+> **Open for:** remote and contract work: Angular architecture, performance and migration for government and enterprise teams.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<a href="https://www.rabinr.in/work/fiji-immigration-internal">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=125&color=111820&text=GOVERNMENT&fontSize=22&fontColor=7DE8CB&fontAlign=50&fontAlignY=50" alt="Government platform"/>
-</a>
-
-### Fiji Immigration Management
-
-Internal workflows for immigration officers.
-
-`ANGULAR` `TYPESCRIPT` `RXJS`
-
-[Explore case study →](https://www.rabinr.in/work/fiji-immigration-internal)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://www.rabinr.in/work/fiji-immigration-external">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=125&color=111820&text=CITIZEN%20PORTAL&fontSize=22&fontColor=7DE8CB&fontAlign=50&fontAlignY=50" alt="Citizen portal"/>
-</a>
-
-### Fiji Immigration Citizen Portal
-
-Digital visa and permit application experiences.
-
-`ANGULAR` `TYPESCRIPT` `REST API`
-
-[Explore case study →](https://www.rabinr.in/work/fiji-immigration-external)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://www.rabinr.in/work/prims-member-portal">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=125&color=111820&text=PENSION%20PLATFORM&fontSize=20&fontColor=7DE8CB&fontAlign=50&fontAlignY=50" alt="Pension platform"/>
-</a>
-
-### PRIMS Member Portal
-
-A member-facing pension platform built around essential account workflows.
-
-`ANGULAR` `TYPESCRIPT` `RXJS`
-
-[Explore case study →](https://www.rabinr.in/work/prims-member-portal)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://www.rabinr.in/work/vnpf-blo-mi">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=125&color=111820&text=MOBILE%20EXPERIENCE&fontSize=20&fontColor=7DE8CB&fontAlign=50&fontAlignY=50" alt="Mobile application"/>
-</a>
-
-### VNPF blo mi
-
-Cross-platform mobile experiences for provident fund members.
-
-`IONIC` `ANGULAR` `CAPACITOR`
-
-[Explore case study →](https://www.rabinr.in/work/vnpf-blo-mi)
-
-</td>
+<td align="center" width="25%"><h1>4+</h1><b>YEARS</b><br/>of production Angular</td>
+<td align="center" width="25%"><h1>3</h1><b>COUNTRIES</b><br/>Fiji / Vanuatu / India</td>
+<td align="center" width="25%"><h1>6</h1><b>CASE STUDIES</b><br/>live on my portfolio</td>
+<td align="center" width="25%"><h1>100</h1><b>LIGHTHOUSE</b><br/>accessibility + SEO</td>
 </tr>
 </table>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/skills.svg" alt="Superpowers" width="620"/>
+
+**POW!** My daily-driver toolkit:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,rxjs,nestjs,ionic,html,css,sass,tailwind,git,github,nodejs,figma&perline=7" alt="Angular, TypeScript, JavaScript, RxJS, NestJS, Ionic, HTML, CSS, Sass, Tailwind, Git, GitHub, Node.js, Figma"/>
+</p>
+
+| POWER | LEVEL | SIDEKICK MOVES |
+| :-- | :-- | :-- |
+| **Angular** | Daily, in production | Standalone components, Signals, Zoneless, SSR with hydration |
+| **TypeScript** | Daily, in production | Strict typing, clean architecture, reusable patterns |
+| **RxJS** | Daily, in production | Shared stream patterns that cut duplicate API calls |
+| **Ionic + Capacitor** | Shipped to stores | iOS and Android from one Angular codebase, biometrics, offline |
+| **NestJS** | Working knowledge | REST APIs and backend-for-frontend layers |
+| **Tailwind / SCSS** | Daily | Design systems and accessible UI |
+
+**Keywords I live by:** `Angular` / `TypeScript` / `JavaScript` / `RxJS` / `Angular Signals` / `Frontend Development` / `Web Development` / `Ionic` / `NestJS`
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/projects.svg" alt="Featured Issues" width="620"/>
+
+### FEATURED GITHUB ISSUES
+
+| ISSUE | WHAT'S INSIDE | TECH |
+| :-- | :-- | :-- |
+| **#1 [Zelavora Nexus](https://github.com/rabinrdev/zelavora-nexus)** | Flagship project. Docs, screenshots and live demo in the repo. | `Angular` `TypeScript` `Signals` |
+| **#2 [Zynvora](https://github.com/rabinrdev/zynvora)** | Featured product build with clear documentation. | `Angular` `TypeScript` `RxJS` |
+| **#3 Reusable Components** | A library of reusable, accessible Angular UI pieces. | `Angular` `SCSS` `Standalone` |
+
+> More issues live in my [repositories](https://github.com/rabinrdev?tab=repositories). Pinned ones are the best of the bunch.
+
+### FROM THE CASE FILES (client work, full stories on the portfolio)
+
+| MISSION | FILE | SIGNATURE MOVE |
+| :-- | :-- | :-- |
+| Fiji Immigration, internal system | [Case study](https://rabinr.in/work/fiji-immigration-internal) | The workflow officers run a country's borders on |
+| Fiji Immigration, citizen portal | [Case study](https://rabinr.in/work/fiji-immigration-external) | Visa and permit applications, without the queue |
+| PRIMS Member Portal | [Case study](https://rabinr.in/work/prims-member-portal) | A pension account members can actually understand |
+| VNPF blo mi, mobile app | [Case study](https://rabinr.in/work/vnpf-blo-mi) | Provident fund in your pocket, iOS + Android |
+| InsureMet | [Case study](https://rabinr.in/work/insuremet) | Policies, claims and finance in one console |
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/notes.svg" alt="Field Notes" width="620"/>
+
+Short, opinionated engineering notes from shipped production work:
+
+- [Angular Signals for State Management: Start Without a Store](https://rabinr.in/insights/angular-signals-state-management)
+- [Angular Zoneless Change Detection: A Practical Migration Guide](https://rabinr.in/insights/angular-zoneless-change-detection)
+- [How I Audit an Existing Angular Codebase](https://rabinr.in/insights/angular-codebase-audit)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/portfolio.svg" alt="The Portfolio" width="620"/>
+
 <div align="center">
 
-[ VIEW ALL CASE STUDIES →](https://www.rabinr.in/work)
+### Want the full story, in full colour?
+
+**[ >>> rabinr.in <<< ](https://rabinr.in/)**
+
+[Work](https://rabinr.in/work) / [Services](https://rabinr.in/services) / [Insights](https://rabinr.in/insights) / [About](https://rabinr.in/about) / [Resume](https://rabinr.in/resume)
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+<img src="assets/contact.svg" alt="Send a Signal" width="620"/>
 
 <div align="center">
 
-`CHAPTER 03` &nbsp; — &nbsp; THE CRAFT
+```text
+   .-----------------------------------------------------.
+   |  BAT-SIGNAL, BUT FOR ANGULAR PROJECTS               |
+   |  Usually replies within one business day.           |
+   '-----------------------------------------------------'
+```
 
-</div>
-
-## My engineering toolkit.
-
-<div align="center">
-
-**THE FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss,rxjs&theme=dark" alt="Frontend technologies"/>
-
-**BACKEND & DATA**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,redis&theme=dark" alt="Backend and data technologies"/>
-
-**TOOLS & DELIVERY**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel&theme=dark" alt="Development tools"/>
-
-</div>
-
-My focus is modern Angular engineering: standalone architecture, Signals, RxJS, reusable component systems, performance optimization, and accessible interfaces.
-
-I choose patterns for the problems they solve — not simply because they are new.
-
----
-
-<div align="center">
-
-`CHAPTER 04` &nbsp; — &nbsp; NOTES FROM THE WORK
-
-</div>
-
-## Ideas worth sharing.
-
-I write about the engineering decisions behind production applications — the trade-offs, the patterns, and the lessons worth carrying into the next project.
-
-- [Angular Signals for State Management: Start Without a Store](https://www.rabinr.in/insights/)
-- [Angular Zoneless Change Detection: A Practical Migration Guide](https://www.rabinr.in/insights/)
-- [How I Audit an Existing Angular Codebase](https://www.rabinr.in/insights/)
-
-[ READ ALL ENGINEERING NOTES →](https://www.rabinr.in/insights/)
-
----
-
-<div align="center">
-
-`CHAPTER 05` &nbsp; — &nbsp; BEYOND THIS PROFILE
-
-# Good engineering should feel effortless.
-
-The best interfaces hide complexity without hiding capability.
-
-I'm interested in challenging Angular problems, frontend architecture, performance engineering, and building digital products that people can rely on.
+[![Portfolio](https://img.shields.io/badge/rabinr.in-Portfolio-e8553d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1b1b1b)](https://rabinr.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rabinr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1b1b1b)](https://www.linkedin.com/in/rabinr)
+[![Contact](https://img.shields.io/badge/Let's_Work_Together-Contact-ffd23f?style=for-the-badge&logoColor=black&labelColor=1b1b1b)](https://rabinr.in/contact)
 
 <br/>
 
-<a href="https://www.rabinr.in/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7DE8CB?style=for-the-badge&logo=googlechrome&logoColor=0B0D10" alt="Explore portfolio"/>
-</a>
-
-<a href="https://www.rabinr.in/">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-F5F5F0?style=for-the-badge&logoColor=0B0D10" alt="Contact Rabin"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=rabinrdev&show_icons=true&hide_border=true&bg_color=f8f1e5&title_color=e8553d&icon_color=1b1b1b&text_color=1b1b1b&ring_color=e8553d&title=Rabin%27s%20Hero%20Stats" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabinrdev&layout=compact&hide_border=true&bg_color=f8f1e5&title_color=e8553d&text_color=1b1b1b&title=Weapons%20of%20Choice" alt="Top languages" height="165"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0B0D10&text=CRAFTED%20WITH%20INTENT.&fontSize=19&fontColor=7DE8CB&fontAlign=50&fontAlignY=50" alt="Crafted with intent"/>
-
-<sub>RABIN R. · ANGULAR ENGINEER · CHENNAI, INDIA</sub>
+**TO BE CONTINUED...** *(next issue: whatever I ship this week)*
 
 </div>
