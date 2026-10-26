@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130" role="img" aria-label="THE CAST &amp; EQUIPMENT">
+<defs><linearGradient id="t" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6dc"/><stop offset="1" stop-color="#e7b85a"/></linearGradient>
+<linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#e7b85a" stop-opacity="0"/><stop offset=".5" stop-color="#e7b85a"/><stop offset="1" stop-color="#e7b85a" stop-opacity="0"/></linearGradient></defs>
+<rect width="900" height="130" fill="#07080c"/>
+<rect x="0" y="0" width="900" height="130" fill="#ff6b35" opacity=".04"/>
+<text x="450" y="44" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="15" letter-spacing="12" fill="#2ec4b6">CHAPTER III</text>
+<text x="450" y="94" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="42" letter-spacing="10" fill="url(#t)">THE CAST &amp; EQUIPMENT</text>
+<rect x="150" y="108" width="600" height="2" fill="url(#l)"><animate attributeName="width" values="0;600" dur="1.6s" fill="freeze"/><animate attributeName="x" values="450;150" dur="1.6s" fill="freeze"/></rect>
+<path d="M20 20v-12h12M880 20v-12h-12M20 110v12h12M880 110v12h-12" stroke="#e7b85a" stroke-width="2" fill="none" opacity=".7"/>
+</svg>

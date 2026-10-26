@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="To be continued">
+<defs><radialGradient id="v" cx=".5" cy=".5" r=".7"><stop offset=".3" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".9"/></radialGradient></defs>
+<rect width="900" height="260" fill="#050609"/>
+<text x="450" y="120" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="bold" font-size="64" letter-spacing="18" fill="#e7b85a">TO BE CONTINUED</text>
+<text x="450" y="170" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22" fill="#9aa6aa">Next episode: whatever ships this week.</text>
+<text x="450" y="215" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="13" letter-spacing="6" fill="#555">NO PIXELS WERE HARMED IN THE MAKING OF THIS PROFILE</text>
+<rect width="900" height="260" fill="url(#v)"/><rect width="900" height="14" fill="#000"/><rect y="246" width="900" height="14" fill="#000"/>
+</svg>
